@@ -10,7 +10,7 @@
 				<title>
 					<xsl:value-of select="$title"/> (Wahidin)
 				</title>
-				<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/izulwahidin/rss-feed/feed.css" />
+				<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/izulwahidin/rss-feed@latest/feed.css" />
 			</head>
 			<body>
 				<div id="explanation">
